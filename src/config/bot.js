@@ -24,9 +24,9 @@ export const botConfig = {
     activities: [
       {
         // Text users will see (example: "Playing /help | Titan Bot").
-        name: "Made with ❤️",
+        name: "Great Plains RP",
         // Activity type number (0 = Playing).
-        type: 0,
+        type: 1,
       },
     ],
   },
@@ -91,8 +91,8 @@ export const botConfig = {
   embeds: {
     colors: {
       // Main brand colors.
-      primary: "#336699",
-      secondary: "#2F3136",
+      primary: "#ff7b00",
+      secondary: "#000000",
 
       // Standard status colors for success/error/warning/info messages.
       success: "#57F287",

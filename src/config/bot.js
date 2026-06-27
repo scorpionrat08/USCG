@@ -24,9 +24,9 @@ export const botConfig = {
     activities: [
       {
         // Text users will see (example: "Playing /help | Titan Bot").
-        name: "Great Plains RP",
+        name: "United States Coast Guard",
         // Activity type number (0 = Playing).
-        type: 1,
+        type: 0,
       },
     ],
   },
@@ -91,7 +91,7 @@ export const botConfig = {
   embeds: {
     colors: {
       // Main brand colors.
-      primary: "#ff7b00",
+      primary: "#00155c",
       secondary: "#000000",
 
       // Standard status colors for success/error/warning/info messages.
